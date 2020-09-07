@@ -1,0 +1,5 @@
+rootProject.name='ARouterDemo'
+include ':app'
+include ':basesdk'
+include ':basecomponent'
+include ':record'
